@@ -28,4 +28,6 @@ This project is made to test out [subdomains](https://github.com/abe312/django-s
 >>> one.save()
 ```
 
+##### Then set SITE_ID in settings.py accordingly
+
 credit: [stackoverflow](https://stackoverflow.com/questions/12289148/where-do-i-set-the-domain-for-my-django-sites-framework-site-when-i-only-have-o/12289245#12289245)
