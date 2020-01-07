@@ -1,3 +1,5 @@
+This project is made to test out [subdomains](https://github.com/abe312/django-subdomains) library
+
 ```
 /etc/hosts
 
