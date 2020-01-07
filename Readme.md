@@ -8,7 +8,8 @@ This project is made to test out [subdomains](https://github.com/abe312/django-s
 127.0.0.1 example.com
 ```
 
-api.example.com:8000 displays API
-frontend.example.com:8000 displays FRONTEND
+####api.example.com:8000 displays API
+
+####frontend.example.com:8000 displays FRONTEND
 
 > tested on django1.11.27, django2.2.9 and django3.0.2
