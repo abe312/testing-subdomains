@@ -65,7 +65,7 @@ ROOT_URLCONF = 'testSubdomains.urls'
 
 # A dictionary of urlconf module paths, keyed by their subdomain.
 SUBDOMAIN_URLCONFS = {
-    None: 'frontend.urls',  # no subdomain, e.g. ``example.com``
+    None: 'testSubdomains.urls',  # no subdomain, e.g. ``example.com``
     'www': 'frontend.urls',
     'api': 'api.urls',
 }
